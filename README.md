@@ -75,7 +75,7 @@ TinyObjLoader is successfully used in ...
 * Supernova Engine - 2D and 3D projects with Lua or C++ in data oriented design: https://github.com/supernovaengine/supernova
 * AGE (Arc Game Engine) - An open-source engine for building 2D & 3D real-time rendering and interactive contents: https://github.com/MohitSethi99/ArcGameEngine
 * [Wicked Engine<img src="https://github.com/turanszkij/WickedEngine/blob/master/Content/logo_small.png" width="28px" align="center"/>](https://github.com/turanszkij/WickedEngine) - 3D engine with modern graphics 
-* Your project here! (Letting us know via github issue is welcome!)
+* Your project here! (Plese send PR)
 
 ### Old version(v0.9.x)
 
